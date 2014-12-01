@@ -12,10 +12,10 @@ namespace VirtualMemory
     class Program
     {
         private static List<Page> PageTable = new List<Page>(256);
-        private static Stack<Page> TLB = new Stack<Page>(16);
-        private static List<SByte> BackingStore = new List<SByte>();
-        private static List<string> ReadINVals = new List<string>();
-        private static List<SByte[]> MainMemory = new List<SByte[]>(128);
+        private static Stack<Page> TLB = new Stack<Page>(16);//FIFO policy for TLB
+        private static List<SByte> BackingStore = new List<SByte>();//this represents the memory on the computer.
+        private static List<string> ReadINVals = new List<string>();//this is simpley to store data that is read in from the file used to impersonate memory
+        private static List<SByte[]> MainMemory = new List<SByte[]>(128);//organizes memory into frames
       
     static void Main(string[] args)
         {
