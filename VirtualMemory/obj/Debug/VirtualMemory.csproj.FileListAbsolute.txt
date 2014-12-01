@@ -1,0 +1,6 @@
+C:\Users\Payton\Documents\ReadyDROP Folders\School\Senior Year\Fall 2014\OS\Assignments\VirtualMemory\VirtualMemory\VirtualMemory\bin\Debug\VirtualMemory.exe.config
+C:\Users\Payton\Documents\ReadyDROP Folders\School\Senior Year\Fall 2014\OS\Assignments\VirtualMemory\VirtualMemory\VirtualMemory\bin\Debug\VirtualMemory.exe
+C:\Users\Payton\Documents\ReadyDROP Folders\School\Senior Year\Fall 2014\OS\Assignments\VirtualMemory\VirtualMemory\VirtualMemory\bin\Debug\VirtualMemory.pdb
+C:\Users\Payton\Documents\ReadyDROP Folders\School\Senior Year\Fall 2014\OS\Assignments\VirtualMemory\VirtualMemory\VirtualMemory\obj\Debug\VirtualMemory.csprojResolveAssemblyReference.cache
+C:\Users\Payton\Documents\ReadyDROP Folders\School\Senior Year\Fall 2014\OS\Assignments\VirtualMemory\VirtualMemory\VirtualMemory\obj\Debug\VirtualMemory.exe
+C:\Users\Payton\Documents\ReadyDROP Folders\School\Senior Year\Fall 2014\OS\Assignments\VirtualMemory\VirtualMemory\VirtualMemory\obj\Debug\VirtualMemory.pdb
